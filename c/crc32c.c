@@ -540,18 +540,12 @@ void reset(crc32c* crc){
     crc->data = 0xffffffff;
 }
 
-
-//STRUCT MUST BE PASSED AS WE ARE IN C
 long getValue(crc32c* crc){
     long ret = crc->data;
     return (~ret) & 0xffffffffL;
 }
 
-
-
 void update(char* b, int off, int len, crc32c* crc){
-    //unsigned int localCrc = crc;
-
     while(len > 7){
         int c0 = (b[off + 0] ^ crc->data) & 0xff;
         int c1 = (b[off + 1] ^ (crc->data >>= 8)) & 0xff;
@@ -592,7 +586,4 @@ void update(char* b, int off, int len, crc32c* crc){
             /* nothing */
             break;
     }
-
-    // Publish crc out to object
-    //crc = localCrc;
 }
