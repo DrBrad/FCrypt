@@ -20,7 +20,7 @@ I plan to implement this hashing algorithm in all major languages.
 |JavaScript| 0% |
 |Go| 0% |
 |Swift| 0% |
-|PHP| DONE |
+|PHP| Done |
 
 License
 -----------
