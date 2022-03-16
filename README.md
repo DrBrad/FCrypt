@@ -9,6 +9,7 @@ We plan to implement all of the hashing functions along with most of the encrypt
 Language Implementations
 -----
 I plan to implement this hashing algorithm in all major languages. Including:
+```
 Java
 C
 C++
@@ -17,6 +18,7 @@ JavaScript
 Go
 Swift
 PHP
+```
 
 License
 -----------
