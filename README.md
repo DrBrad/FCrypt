@@ -21,6 +21,7 @@ I plan to implement this hashing algorithm in all major languages.
 |Go| 0% |
 |Swift| 0% |
 |PHP| Done |
+|C#| 0% |
 
 License
 -----------
