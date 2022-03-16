@@ -17,7 +17,7 @@ I plan to implement this hashing algorithm in all major languages.
 |C| Done |
 |C++| Done |
 |Python| 0% |
-|JavaScript| 0% |
+|JavaScript| Done |
 |Go| 0% |
 |Swift| 0% |
 |PHP| Done |
