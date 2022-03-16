@@ -12,7 +12,7 @@ Language Implementations
 I plan to implement this hashing algorithm in all major languages.
 
 | Language | Status |
-|------|-------|--------|
+|------|-------|
 |Java| Done |
 |C| Done |
 |C++| Done |
