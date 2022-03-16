@@ -13,7 +13,7 @@ I plan to implement this hashing algorithm in all major languages.
 
 | Language | Status |
 |------|-------|
-|Java| Done |
+|Java| <span style="color:green">Done</span> |
 |C| Done |
 |C++| Done |
 |Python| 0% |
