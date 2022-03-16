@@ -1,27 +1,22 @@
-CRC32C Hashing
+UnCrypt
 ========
-CRC32C hashing in many different languages. CRC32C is a hashing algorithm used for randomness unlike other popular hashing algorithms such as SHA.
+This is an OpenSource Encryption library for all the major programming and scripting languages.
 
-About CRC32C
+About UnCrypt
 -----
-CRC32C is used in many DHTs including BitTorrent.
-[CRC32C Wiki](https://en.wikipedia.org/wiki/Cyclic_redundancy_check)
+We plan to implement all of the hashing functions along with most of the encryption methods commonly used. We want to keep everything very transparent and secure.
 
 Language Implementations
 -----
-I plan to implement this hashing algorithm in all major languages.
-
-| Language | Status |
-|------|-------|
-|Java| Done |
-|C| Done |
-|C++| Done |
-|Python| 0% |
-|JavaScript| Done |
-|Go| 0% |
-|Swift| 0% |
-|PHP| Done |
-|C#| 0% |
+I plan to implement this hashing algorithm in all major languages. Including:
+Java
+C
+C++
+Python
+JavaScript
+Go
+Swift
+PHP
 
 License
 -----------
