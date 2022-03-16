@@ -1,4 +1,4 @@
-Java Varient
+C Varient
 ========
 
 Usage
