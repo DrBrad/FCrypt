@@ -547,7 +547,6 @@ class CRC32C {
     }
 
     update(b, off, len){
-        //if(off && len){
         if(off !== undefined && len !== undefined){
             let localCrc = this.#crc;
 
