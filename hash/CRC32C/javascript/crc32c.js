@@ -543,12 +543,12 @@ class CRC32C {
     }
 
     getValue(){
-        let ret = BigInt(this.#crc);
-        return ~ret & 0xffffffffn;
+        return (~this.#crc & 0xffffffff) >>> 0;
     }
 
     update(b, off, len){
-        if(off && len){
+        //if(off && len){
+        if(off !== undefined && len !== undefined){
             let localCrc = this.#crc;
 
             while(len > 7){
