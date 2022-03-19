@@ -22,15 +22,64 @@ PHP
 
 Algorithm Implementations
 -----
-| Language | Status |
-|------|-------|
-|CRC32C| 70% |
-|SHA-256| 0% |
-|SHA-512| 0% |
-|AES-CBC| 0% |
-|AES-CTR| 0% |
-|AES-GCM| 0% |
-|RSA| 0% |
+| Language | Language | Status |
+|------|-------|-------|
+|CRC32C| Java | 100% |
+|CRC32C| C | 100% |
+|CRC32C| C++ | 100% |
+|CRC32C| Python | 60% |
+|CRC32C| JavaScript | 100% |
+|CRC32C| Go | 0% |
+|CRC32C| Swift | 0% |
+|CRC32C| PHP | 100% |
+|SHA-256| Java | 50% |
+|SHA-256| C | 0% |
+|SHA-256| C++ | 0% |
+|SHA-256| Python | 0% |
+|SHA-256| JavaScript | 0% |
+|SHA-256| Go | 0% |
+|SHA-256| Swift | 0% |
+|SHA-256| PHP | 0% |
+|SHA-512| Java | 0% |
+|SHA-512| C | 0% |
+|SHA-512| C++ | 0% |
+|SHA-512| Python | 0% |
+|SHA-512| JavaScript | 0% |
+|SHA-512| Go | 0% |
+|SHA-512| Swift | 0% |
+|SHA-512| PHP | 0% |
+|AES-CBC| Java | 0% |
+|AES-CBC| C | 0% |
+|AES-CBC| C++ | 0% |
+|AES-CBC| Python | 0% |
+|AES-CBC| JavaScript | 0% |
+|AES-CBC| Go | 0% |
+|AES-CBC| Swift | 0% |
+|AES-CBC| PHP | 0% |
+|AES-CTR| Java | 0% |
+|AES-CTR| C | 0% |
+|AES-CTR| C++ | 0% |
+|AES-CTR| Python | 0% |
+|AES-CTR| JavaScript | 0% |
+|AES-CTR| Go | 0% |
+|AES-CTR| Swift | 0% |
+|AES-CTR| PHP | 0% |
+|AES-GCM| Java | 0% |
+|AES-GCM| C | 0% |
+|AES-GCM| C++ | 0% |
+|AES-GCM| Python | 0% |
+|AES-GCM| JavaScript | 0% |
+|AES-GCM| Go | 0% |
+|AES-GCM| Swift | 0% |
+|AES-GCM| PHP | 0% |
+|RSA| Java | 0% |
+|RSA| C | 0% |
+|RSA| C++ | 0% |
+|RSA| Python | 0% |
+|RSA| JavaScript | 0% |
+|RSA| Go | 0% |
+|RSA| Swift | 0% |
+|RSA| PHP | 0% |
 
 License
 -----------
